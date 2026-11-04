@@ -1,0 +1,4 @@
+# clasp only syncs the script and its settings file.
+**/**
+!Code.gs
+!appsscript.json
